@@ -14,9 +14,10 @@
 
 In this project, the program simulates a Vending Machine Factory where the user is given two options to create either a "Regular" or "Special" Vending Machine. Additionally, the user can choose to explore either "Vending" or "Maintenance" features. Both machine types share functionalities such as viewing current inventory, payment methods, dispensing items (including pre-made and custom-made meals in the "Special" vending machine), obtaining change, and checking the calorie amount of the dispensed product.
 
-For the Maintenance Feature, both machine types share functionalities like restocking inventory, changing product prices, collecting total profit, replenishing cash on the vending machine, and generating transaction summaries.
+For the Maintenance Feature, both machine types share functionalities like restocking inventory, changing product prices, collecting total profit, replenishing cash on the vending machine, and generating transaction summaries. This machine project was developed as part of the requirements for the CCPROG3 course, "Introduction to Object-Oriented Programming" at De La Salle University. This version of the machine project has been remodified and rechecked for further enhancement.
 
-This machine project was developed as part of the requirements for the CCPROG3 course, "Introduction to Object-Oriented Programming" at De La Salle University. This version of the machine project has been remodified and rechecked for further enhancement.
+To access more specifications of this machine project, read [CCPROG3 MCO Specifications - Vending Machine.pdf](https://github.com/Mikosantos/Vending-Machine-Factory-Simulator/files/13714066/CCPROG3.MCO.Specifications.-.Vending.Machine.pdf).
+
 
 ## To Run
 
