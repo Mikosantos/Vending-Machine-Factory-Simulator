@@ -1,13 +1,13 @@
-# Vending Machine Factory Simulator
+<h1 align="center"> Vending Machine Factory Simulator<h1 align="center">
 
 <p align="center">
-  <img src="https://github.com/Mikosantos/Vending-Machine-Factory-Simulator/assets/92857538/d244fb0c-5ab8-4a77-99cd-a209ca9bc274" alt="initScreen">
+  <img src="https://github.com/Mikosantos/Vending-Machine-Factory-Simulator/assets/92857538/d244fb0c-5ab8-4a77-99cd-a209ca9bc274" alt="initScreen" width="250" height="100">
 </p>
 <p align="center">
-  <img src="https://github.com/Mikosantos/Vending-Machine-Factory-Simulator/assets/92857538/81028214-dc55-4b68-b9b5-b01bac233c59" alt="rvmScreen">
+  <img src="https://github.com/Mikosantos/Vending-Machine-Factory-Simulator/assets/92857538/81028214-dc55-4b68-b9b5-b01bac233c59" alt="rvmScreen" width="300" height="180">
 </p>
 <p align="center">
-  <img src="https://github.com/Mikosantos/Vending-Machine-Factory-Simulator/assets/92857538/6aa055f5-3d26-49ff-bafd-2850c9685aae" alt="svmScreen">
+  <img src="https://github.com/Mikosantos/Vending-Machine-Factory-Simulator/assets/92857538/6aa055f5-3d26-49ff-bafd-2850c9685aae" alt="svmScreen" width="300" height="180">
 </p>
 
 ## About
@@ -21,6 +21,6 @@ This machine project was developed as part of the requirements for the CCPROG3 c
 ## To Run
 
 1. Type the following command in the command prompt (cmd) to compile:
-```javac VendingMachineFactory.java```
+- ```javac VendingMachineFactory.java```
 2. Type the following command to run the program with GUI:
-3. ```java VendingMachineFactory```
+- ```java VendingMachineFactory```
