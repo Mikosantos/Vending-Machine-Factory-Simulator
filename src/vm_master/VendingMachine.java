@@ -12,11 +12,6 @@ import java.util.ArrayList;
 public class VendingMachine implements MealCreator{
 
     private final int CAPACITYPERSLOT;
-
-    public int getNUMSLOTS() {
-        return NUMSLOTS;
-    }
-
     private int NUMSLOTS;
     private ArrayList<Slot> slots;
     private ArrayList<Item> slotInventory;
@@ -457,6 +452,10 @@ public class VendingMachine implements MealCreator{
 
     public CashBox getPayments() {
         return payments;
+    }
+    
+    public int getNUMSLOTS() {
+        return NUMSLOTS;
     }
 
 
